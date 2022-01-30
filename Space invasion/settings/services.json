@@ -1,0 +1,19 @@
+{
+	"game": {
+		"name": "Space invasion",
+		"appid": "635641823",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "635641823",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true
+				}
+			]
+		}
+	]
+}

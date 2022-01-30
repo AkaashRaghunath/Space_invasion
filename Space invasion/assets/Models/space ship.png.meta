@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a7631fb2-4191-46e2-a909-74da76869f39",
+  "importer": "image",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 187,
+  "height": 68,
+  "platformSettings": {},
+  "subMetas": {
+    "space ship": {
+      "ver": "1.0.6",
+      "uuid": "a7631fb2-4191-46e2-a909-74da76869f39@6c48a",
+      "importer": "texture",
+      "rawTextureUuid": "a7631fb2-4191-46e2-a909-74da76869f39",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 0,
+      "width": 179,
+      "height": 68,
+      "rawWidth": 187,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
